@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Thant",
 	"description": "A project for Back End Development and APIs from FreeCodeCamp",
-	"keywords": ["npm", "package", "nodejs", "express", "server", "boilerplate"],
+	"keywords": ["npm", "package", "nodejs", "express", "server", "boilerplate", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
